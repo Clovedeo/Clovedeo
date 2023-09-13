@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Clovedeo
-- 👀 I’m interested in mobile developing
-- 🌱 I’m currently learning Kotlin and more Java, and often other languages like JS, Python and CSS.
+- 👀 I’m interested in mobile and web developing
+- 🌱 I’m currently learning Kotlin and more Java, and often other languages like JS, C# and CSS.
 - 💞️ I’m looking to collaborate on any project, I'm currently a student.
-- 📫 How to reach me? well, you can contact me in manuel.obregont@gmail.com
+- 📫 How to reach me? well, you can contact me in clovedeo@gmail.com
 
 <!---
 Clovedeo/Clovedeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
